@@ -58,11 +58,6 @@ kubectl get svc
 
 ---
 
-## 🔒 Node Scheduling (Affinity & Anti-Affinity)
-
-(Will update soon)
-
----
 
 ## ✨ **Output**
 
