@@ -61,7 +61,7 @@ kubectl get svc
 
 ## ✨ **Output**
 
-Screenshots of node status, pod running, and service output are added in `/screenshots`.
+
 
 ---
 
