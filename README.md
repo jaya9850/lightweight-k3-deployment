@@ -61,6 +61,21 @@ kubectl get svc
 
 ## ✨ **Output**
 
+## 🖼️ Cluster Status Screenshot
+
+![Cluster Status](Screenshot%202025-11-24%20200429.png)
+
+## 🖼️ Node Overview Screenshot
+
+![Nodes](Screenshot%202025-11-24%20200542.png)
+
+## 🖼️ Deployment Applied Screenshot
+
+![Deployment](Screenshot%202025-11-24%20200220.png)
+
+## 🖼️ Service Screenshot
+
+![Service](Screenshot%202025-11-24%20203346.png)
 
 
 ---
